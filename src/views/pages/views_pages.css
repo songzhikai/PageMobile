@@ -25,3 +25,19 @@
   opacity: 0.4;
   z-index: 79;
 }
+.am-search {
+  border-bottom: 1px solid #ddd;
+}
+.sub-title {
+  color: #888;
+  font-size: 14px;
+  padding: 30px 0 18px 0;
+}
+.loading-example {
+  display: flex;
+  justify-content: flex-start;
+}
+.align {
+  display: flex;
+  flex-direction: column;
+}
